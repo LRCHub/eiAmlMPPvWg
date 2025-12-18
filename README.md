@@ -1,0 +1,79 @@
+# Moona Hoshinova – Perisai Jitu
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:01.02] Warna cerah yang terlihat
+[00:04.55] Diriku mahir sembunyi rasa
+[00:10.34] Sebenarnya hitam pekat
+[00:14.11] Kututup rapat, jadi rahasia
+[00:27.61] 
+[00:18.05] Satu dua kali, 'ku tak apa-apa
+[00:22.88] Kamu pikir hidupku baik-baik saja?
+[00:27.33] Siapa yang peduli kupunya air mata?
+[00:32.17] Kamu hanya pinta diri berikan tawa
+[00:49.17] 
+[00:38.05] Ha-ha, ha-ha
+[00:40.19] Ha-ha, ha-ha, ha-ha
+[00:49.69] 
+[00:43.82] Wajah riangku perisai jitu
+[00:56.82] 
+[00:47.56] Ha-ha, ha-ha
+[00:49.67] Ha-ha, ha-ha, ha-ha
+[00:59.17] 
+[00:53.35] Tapi sampai kapan kubegitu?
+[01:06.85] 
+[00:59.86] Malam hari berwahana
+[01:03.30] Pikiran liarku juaranya
+[01:09.37] Bukan 'ku tak berusaha
+[01:12.94] Ingin kulepas sekuat tenaga
+[01:26.44] 
+[01:16.90] Satu dua kali, 'ku tak apa-apa
+[01:21.67] Kamu pikir hidupku baik-baik saja?
+[01:26.35] Siapa yang peduli kupunya air mata?
+[01:30.92] Kamu hanya pinta diri berikan tawa, ho-oh
+[01:51.42] 
+[01:37.00] Ha-ha, ha-ha
+[01:38.95] Ha-ha, ha-ha, ha-ha
+[01:48.45] 
+[01:42.61] Wajah riangku perisai jitu
+[01:55.61] 
+[01:46.37] Ha-ha, ha-ha
+[01:48.51] Ha-ha, ha-ha, ha-ha
+[01:58.01] 
+[01:52.26] Tapi sampai kapan kubegitu?
+[02:05.76] 
+[01:56.98] Aku bulan yang terangi
+[02:01.79] Malam-malammu yang sepi
+[02:06.37] Lalu siapa yang temani
+[02:11.10] Rasa gelisah kupikul sendiri
+[02:25.10] 
+[02:17.13] (Ha-ha, ha-ha)
+[02:19.01] Ha-ho
+[02:21.92] (Ha-ha, ha-ha)
+[02:24.49] Ha-hm, yeah
+[02:26.71] (Ha-ha, ha-ha)
+[02:28.36] Ha-oh
+[02:31.25] (Ha-ha, ha-ha)
+[02:33.35] Hu-hu-hu
+[02:37.35] 
+[02:38.15] Ha-ha, ha-ha
+[02:40.19] Ha-ha, ha-ha, ha-ha
+[02:49.69] 
+[02:43.73] Wajah riangku perisai jitu
+[02:56.73] 
+[02:47.32] Ha-ha, ha-ha
+[02:49.53] Ha-ha, ha-ha, ha-ha
+[02:59.03] 
+[02:53.28] Tapi sampai kapan kubegitu?
+[03:06.78] 
+[02:56.93] Ha-ha, ha-ha
+[02:59.00] Ha-ha, ha-ha, ha-ha
+[03:08.50] 
+[03:02.72] Wajah riangku perisai jitu (wajah riangku)
+[03:23.72] 
+[03:06.43] Ha-ha, ha-ha
+[03:08.58] Ha-ha, ha-ha, ha-ha (hu-uu)
+[03:22.08] 
+[03:12.17] Tapi sampai kapan kubegitu?
+```
