@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "Perisai Jitu",
+  "base_artist": "Moona Hoshinova",
+  "createdAt": "2025-12-18T08:58:31.198462Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Perisai Jitu",
+      "artist": "Moona Hoshinova",
+      "has_synced": true,
+      "path": "select/01_Perisai_Jitu_Moona_Hoshinova.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Perisai Jitu",
+      "artist": "Moona Hoshinova",
+      "has_synced": true,
+      "path": "select/02_Perisai_Jitu_Moona_Hoshinova.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Perisai Jitu",
+      "artist": "Moona Hoshinova",
+      "has_synced": true,
+      "path": "select/03_Perisai_Jitu_Moona_Hoshinova.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Perisai Jitu",
+      "artist": "Hoshinova Moona",
+      "has_synced": true,
+      "path": "select/04_Perisai_Jitu_Hoshinova_Moona.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Perisai Jitu",
+      "artist": "Video • Moona Hoshinova",
+      "has_synced": true,
+      "path": "select/05_Perisai_Jitu_Video_•_Moona_Hoshinova.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Perisai Jitu",
+      "artist": "Moona Hoshinova",
+      "has_synced": false,
+      "path": "select/pl_01_Perisai_Jitu_Moona_Hoshinova.txt"
+    }
+  ]
+}
